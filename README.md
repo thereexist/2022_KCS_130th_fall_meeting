@@ -6,6 +6,8 @@
 
 저의 연구에 관심이 있으신분들은 이 영상을 시청해주시면 감사하겠습니다.
 
+아래 이미지를 누르면 youtube 영상을 시청하실 수 있습니다.
+
 [![video](https://img.youtube.com/vi/9qhBx5Hymh0/0.jpg)](https://www.youtube.com/watch?v=9qhBx5Hymh0)
 
 질문이 있으신 분은, 질문을 이메일 주소와 같이 youtube 댓글에 적어주시면 제가 개인적으로 답변을 드리겠습니다.
