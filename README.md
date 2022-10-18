@@ -16,6 +16,6 @@
 
 이 부분에 대한 수정된 figure를 다음과 같이 개시했습니다.
 
-![MSD NGP](https://github.com/thereexist/2022_KCS_130th_fall_meeting/blob/main/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C7.JPG)
+[![MSD NGP](https://github.com/thereexist/2022_KCS_130th_fall_meeting/blob/main/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C7.JPG)]
 
-![DKC](https://github.com/thereexist/2022_KCS_130th_fall_meeting/blob/main/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C8.JPG)
+[![DKC](https://github.com/thereexist/2022_KCS_130th_fall_meeting/blob/main/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C8.JPG)]
