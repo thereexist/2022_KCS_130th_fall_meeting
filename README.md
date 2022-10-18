@@ -12,4 +12,6 @@
 
 질문이 있으신 분은, 질문을 이메일 주소와 같이 youtube 댓글에 적어주시면 제가 개인적으로 답변을 드리겠습니다.
 
+포스터에 인쇄가 잘못된 figure가 있습니다.
 
+![MSD NGP](https://github.com/thereexist/2022_KCS_130th_fall_meeting/blob/main/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C7.JPG)
