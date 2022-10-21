@@ -6,7 +6,7 @@
 
 저의 연구에 관심이 있으신분들은 이 영상을 시청해주시면 감사하겠습니다.
 
-아래 이미지를 누르면 youtube 영상을 시청하실 수 있습니다.
+아래 이미지를 누르면 youtube 영상을 시청하실 수 있습니다. (영상은 2022.10.23까지 시청이 가능하십니다.)
 
 [![video](https://img.youtube.com/vi/9qhBx5Hymh0/0.jpg)](https://www.youtube.com/watch?v=9qhBx5Hymh0)
 
